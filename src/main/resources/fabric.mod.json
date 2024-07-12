@@ -3,7 +3,7 @@
 	"id": "what-the-fox",
 	"version": "${version}",
 	"name": "What The Fox",
-	"description": "Fixes MC-263591 which affects foxes.",
+	"description": "Adds a failsafe to prevent MC-263591 from hurting foxes unintentionally.",
 	"authors": [
 		"misterj05"
 	],
