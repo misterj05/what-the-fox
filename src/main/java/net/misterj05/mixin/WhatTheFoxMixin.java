@@ -17,10 +17,7 @@ public abstract class WhatTheFoxMixin {
 
 	@Inject(at = @At("RETURN"), method = "shouldContinue", cancellable = true)
 	private void shouldContinue(CallbackInfoReturnable<Boolean> cir) {
-		// FoxEntity.JumpChasingGoal thisObject = (FoxEntity.JumpChasingGoal)(Object)this;
-		System.out.println("Pre Inject: shouldContinue = " + cir.getReturnValue());
 		cir.setReturnValue(false);
-		System.out.println("Post Inject: shouldContinue = " + cir.getReturnValue());
 	}
 
 	@Inject(at = @At("HEAD"), method = "start")
