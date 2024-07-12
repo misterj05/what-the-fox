@@ -19,14 +19,4 @@ public abstract class WhatTheFoxMixin {
 	private void shouldContinue(CallbackInfoReturnable<Boolean> cir) {
 		cir.setReturnValue(false);
 	}
-
-	@Inject(at = @At("HEAD"), method = "start")
-	private void Start(CallbackInfo info) {
-		System.out.println("Fox has started jump.");
-	}
-
-	@Inject(at = @At("HEAD"), method = "stop")
-	private void Stop(CallbackInfo info) {
-		System.out.println("Fox has stopped jump.");
-	}
 }
