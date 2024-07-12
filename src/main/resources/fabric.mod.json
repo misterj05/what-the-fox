@@ -3,15 +3,14 @@
 	"id": "what-the-fox",
 	"version": "${version}",
 	"name": "What The Fox",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Fixes MC-263591 which affects foxes.",
 	"authors": [
-		"Me!"
+		"misterj05"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/misterj05/what-the-fox"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/what-the-fox/icon.png",
 	"environment": "*",
 	"entrypoints": {
