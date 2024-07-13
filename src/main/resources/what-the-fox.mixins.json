@@ -3,7 +3,7 @@
 	"package": "net.misterj05.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-      "WhatTheFoxMixin"
+		"WhatTheFoxMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
