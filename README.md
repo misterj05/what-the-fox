@@ -6,7 +6,7 @@ A Fabric mod that adds a failsafe to prevent [MC-263591](https://bugs.mojang.com
 **This does not outright fix the bug, it just adds a failsafe incase the bug ever gets triggered.**
 
 ## What The Mod Does
-![foxexample](https://raw.githubusercontent.com/misterj05/what-the-fox/main/media/foxexample.gif)
+![foxexample](https://raw.githubusercontent.com/misterj05/what-the-fox/main/media/foxexample.webp)
 
 ## Hurting Foxes Unintentionally?
 If a fox ever enters a body of water while diving, [MC-263591](https://bugs.mojang.com/browse/MC-263591) will cause them to be unable to move and be underwater, which eventually causes them to drown :(. However this mod prevents that from happening!
