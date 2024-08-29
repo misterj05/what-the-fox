@@ -11,4 +11,4 @@ A Fabric mod that fixes [MC-263591](https://bugs.mojang.com/browse/MC-263591) an
 If a fox ever enters a body of water while diving, [MC-263591](https://bugs.mojang.com/browse/MC-263591) will cause them to be unable to move and be underwater, which eventually causes them to drown :(. However this mod prevents that from happening!
 
 ## Known Issues
-Currently, it's still a little buggy, [MC-147230](https://bugs.mojang.com/browse/MC-147230) can still trigger briefly while in the water but miles ahead of what vanilla is.
+Currently, it's still a little buggy, [MC-147230](https://bugs.mojang.com/browse/MC-147230) can still trigger briefly while in the water but it's miles ahead of what vanilla is.
