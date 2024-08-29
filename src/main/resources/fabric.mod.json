@@ -3,7 +3,7 @@
 	"id": "what-the-fox",
 	"version": "${version}",
 	"name": "What The Fox",
-	"description": "Adds a failsafe to prevent MC-263591 from hurting foxes unintentionally.",
+	"description": "A mod that fixes MC-263591 and MC-147230 to try and stop them from hurting foxes unintentionally.",
 	"authors": [
 		"misterj05"
 	],
