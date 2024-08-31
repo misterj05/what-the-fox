@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.misterj05.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "WhatTheFoxPounceMixin",
+    "WhatTheFoxStalkPreyMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
