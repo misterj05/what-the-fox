@@ -2,7 +2,7 @@
 
 Welcome Fox Lovers <3
 # What The Fox
-A Fabric mod that fixes [MC-263591](https://bugs.mojang.com/browse/MC-263591) and [MC-147230](https://bugs.mojang.com/browse/MC-147230) to try and stop them from hurting foxes unintentionally.
+A NeoForge mod that fixes [MC-263591](https://bugs.mojang.com/browse/MC-263591) and [MC-147230](https://bugs.mojang.com/browse/MC-147230) to try and stop them from hurting foxes unintentionally.
 
 ## What The Mod Does
 ![foxexample](https://raw.githubusercontent.com/misterj05/what-the-fox/main/media/foxexample.webp)
