@@ -15,6 +15,6 @@ public abstract class WhatTheFoxFoxEntityMixin {
 
     @Inject(at = @At("TAIL"), method = "setTarget")
     private void setTarget(LivingEntity target, CallbackInfo ci) {
-        thisFox.setCanPickUpLoot(thisFox.getTarget() == null);
+        thisFox.setCanPickUpLoot(target == null);
     }
 }
