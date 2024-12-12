@@ -23,7 +23,7 @@ public abstract class WhatTheFoxJumpChasingMixin {
 	private void shouldContinue(CallbackInfoReturnable<Boolean> cir) {
 		// Check if the FoxEntity is on the ground OR touching water, cancel out of the method if either of these are true.
 		// No further code in "shouldContinue" will be processed if one of these are true.
-		if (field_17984.isOnGround() || field_17984.isTouchingWater()) {
+		if (field_17984.isOnGround() || field_17984.isTouchingWater() || field_17984.isInLava()) {
 			cir.setReturnValue(false);
 		}
 	}
