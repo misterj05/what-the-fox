@@ -5,7 +5,7 @@
 A Minecraft mod that fixes [MC-263591](https://bugs.mojang.com/browse/MC-263591) and [MC-147230](https://bugs.mojang.com/browse/MC-147230) to try and stop them from hurting foxes unintentionally.
 
 ## What The Mod Does
-![foxexample](https://raw.githubusercontent.com/misterj05/what-the-fox/1.21-fabric/media/foxexample.webp)
+![foxexample](https://raw.githubusercontent.com/misterj05/what-the-fox/media/videos/foxexample.webp)
 
 ## Hurting Foxes Unintentionally?
 If a fox ever enters a body of water while diving, [MC-263591](https://bugs.mojang.com/browse/MC-263591) will cause them to be unable to move and be underwater, which eventually causes them to drown :(. However this mod prevents that from happening!
