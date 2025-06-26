@@ -1,3 +1,9 @@
+> [!IMPORTANT] 
+> #### This repository has moved to [Codeberg](https://codeberg.org/misterj05/what-the-fox).
+> #### All further development will be conducted there.
+
+---
+
 <img src="https://raw.githubusercontent.com/misterj05/what-the-fox/1.21-fabric/src/main/resources/assets/what-the-fox/icon.png" width="200" />
 
 **Welcome Fox Lovers <3**
